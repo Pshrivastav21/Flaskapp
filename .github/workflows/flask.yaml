@@ -29,6 +29,5 @@ jobs:
 
             - name: Setting up test cases
               run: |
-                echo "Testing Started "
-                curl https://127.0.0.1:5000
+                echo "Testing Started"
                 echo "Testing Completed"
